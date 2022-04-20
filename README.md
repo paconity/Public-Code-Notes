@@ -1,2 +1,2 @@
 # Public-Code-Notes
-my own publicd code notes
+my own public code notes
